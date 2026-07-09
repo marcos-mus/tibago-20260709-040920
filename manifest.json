@@ -1,0 +1,21 @@
+{
+  "name": "TibaGo",
+  "short_name": "TibaGo",
+  "description": "TibaGo facilite l'accès aux soins de santé en Afrique grâce à une plateforme de télémédecine connectant patients et professionnels certifiés pour des consultations, conseils et suivis personnalisés à distance.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F9FAFB",
+  "theme_color": "#2A9D8F",
+  "icons": [
+    {
+      "src": "https://firebasestorage.googleapis.com/v0/b/wakisha-connect-b4fd9.firebasestorage.app/o/StartupLogos%2Fimg_1780684222919.jpg?alt=media&token=38bf2e10-bd99-43c9-a3e6-fb5b8d1a8116",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://firebasestorage.googleapis.com/v0/b/wakisha-connect-b4fd9.firebasestorage.app/o/StartupLogos%2Fimg_1780684222919.jpg?alt=media&token=38bf2e10-bd99-43c9-a3e6-fb5b8d1a8116",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
